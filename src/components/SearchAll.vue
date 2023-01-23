@@ -1,7 +1,6 @@
 <template>
   <div class="h-4">
     <form>
-
       <div class="relative">
         <label for="" class="relative block">
           <span class="absolute inset-y-0 left-0 flex items-center pl-3 pr-8">
@@ -17,7 +16,7 @@
         </label>
         
       </div>
-      <div class="absolute left-60 top-40 mt-1">
+      <div class="absolute left-60 top-40 mt-[-12px]">
         <label for="" class="relative block">
           <span class="absolute inset-y-0 left-0 flex items-center pl-3 pr-8">
             <font-awesome-icon icon="fa-solid fa-search" class="text-[#8B83BA]" />

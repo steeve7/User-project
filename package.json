@@ -11,6 +11,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
     "@fortawesome/vue-fontawesome": "^3.0.2",
+    "@syncfusion/ej2-vue-dropdowns": "^20.4.43",
     "autoprefixer": "^10",
     "core-js": "^3.8.3",
     "postcss": "^8",

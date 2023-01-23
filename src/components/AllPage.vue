@@ -11,7 +11,7 @@
     <p class="text-[#6E6893]">Total payable amount:<b class="text-[#6D5BD0]">$900.00</b>USD</p>
   </div>
   </div>
-  <div class="border-1 w-[90%] mx-16 mb-3 bg-black h-1"></div>
+  <div class="w-[90%] mx-16 mb-3 mt-[-15px] bg-[#6E6893] h-1"></div>
  <router-view/> 
   </div>
 </template>

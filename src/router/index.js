@@ -8,7 +8,8 @@ const routes = [
     {
         path: '/',
         name:'HomePage',
-        component: HomePage
+        component: HomePage,
+        linkActiveClass: 'bg-blue underline'
     },
     {
         path: '/paid',
@@ -29,7 +30,8 @@ const routes = [
 
 const router = createRouter({
     history:createWebHistory(process.env.BASE_URL),
-    routes
+    routes,
+    linkActiveClass: 'underline text-[#6E6893]'
 })
 
 export default router
